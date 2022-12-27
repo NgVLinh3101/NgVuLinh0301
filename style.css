@@ -1,0 +1,115 @@
+.header{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 100px;
+    margin-top: -20px;
+}
+.content{
+    background-color: rgb(241, 236, 239);
+    width: 30% ;
+    height: 300px;
+    float:left ;
+}
+.sidebar{
+    width: 70% ;
+    float: left;
+    height: 300px;
+    background-color: black;
+}
+
+.footer{
+    margin-top: 20px;
+    height: 100px;  
+    clear: left;
+    background-color: greenyellow;
+}
+.logo-t{
+    float: left;
+    padding-top: 5px;
+
+}
+.chucnang a {
+    text-decoration: none;
+    padding-left: 10px;
+}
+.chucnang{
+    padding-top: 10px;
+    margin-bottom: 10px;
+    width:55% ;
+}
+.logo-t a{
+    padding-left: 10px;
+
+}
+.body{
+    margin-top: 300px;
+    clear: left;
+    text-align: center;   
+    
+}
+.sp{
+    background: red;
+    border-radius: 10px;
+    font-size: 18px;
+    width: 100%;    
+    border: 2px solid red;
+}
+.box-sp{
+    border: 1px solid rgb(209, 207, 207);
+    width: 25%;
+    height: 420px;
+    float: left;
+    margin-bottom: 10px;
+}
+.sp-{
+    margin-top: 10px;
+    clear: left;
+    background: rgb(119, 114, 119);
+    border-radius: 10px;
+    font-size: 18px;
+    width: 100%;
+    margin-bottom: 0px;
+    
+}
+.product-hot{
+    border: 1px solid red;
+    border-radius: 10px;
+}
+.product-new{
+    border: 1px solid red;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.product-tragop{
+    border: 1px solid red;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.product-sale{
+    border: 1px solid red;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.title-menu{
+    margin-left: 30%;
+    margin-bottom: 20px;
+
+}
+input{
+    width: 40%;
+    height: 30px;
+    margin: 10%;
+}
+.title{
+    height: auto;
+}
+.search{
+    margin-right: -285px;
+    width: 700px;
+}
+form{
+    width: auto;
+}
+body{
+    background-color: rgb(180, 179, 180);
+}
